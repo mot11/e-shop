@@ -60,3 +60,5 @@ gem 'devise'
 # add bootstrap and jquery
 gem 'jquery-rails'
 gem 'bootstrap-sass'
+
+gem 'payjp'
